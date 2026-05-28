@@ -1,0 +1,17 @@
+{
+  "idf.currentSetup": "E:\\.espressif\\v6.0.1\\esp-idf",
+  "idf.portWin": "COM5",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-20.1.1_20250829\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=e:\\111js\\AIOT\\ESP32-S3-Touch-LCD-4.3-Demo\\ESP32-S3-Touch-LCD-4.3-Demo\\ESP-IDF\\08_lvgl_Porting\\build"
+  ],
+  "idf.flashType": "UART"
+}

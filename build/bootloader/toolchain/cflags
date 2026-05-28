@@ -1,0 +1,5 @@
+"-specs=E:/111js/AIOT/08_lvgl_Porting/build/bootloader/specs/picolibc.specs"
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
