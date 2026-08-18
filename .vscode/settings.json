@@ -1,5 +1,5 @@
 {
-  "idf.currentSetup": "E:\\.espressif\\v6.0.1\\esp-idf",
+  "idf.currentSetup": "/Users/yaojiwww/.espressif/v6.0.1/esp-idf",
   "idf.portWin": "COM5",
   "idf.openOcdConfigs": [
     "board/esp32s3-builtin.cfg"
