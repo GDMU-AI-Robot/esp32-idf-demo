@@ -1,6 +1,0 @@
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero
--mdisable-hardware-atomics
-"-specs=E:/111js/AIOT/08_lvgl_Porting/build/specs/picolibc.specs"
